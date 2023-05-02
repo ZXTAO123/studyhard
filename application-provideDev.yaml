@@ -23,7 +23,7 @@ eureka:
   instance:
     hostname: localhost
     prefer-ip-address: true
-    instance-id: provider666666
+    instance-id: provider6001
 #    lease-expiration-duration-in-seconds: 1 #多久发送一次心跳，单位为秒
 #    lease-renewal-interval-in-seconds: 2 #客户端收不到心跳，等待多久时间
   client:
